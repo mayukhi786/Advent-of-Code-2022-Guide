@@ -1,4 +1,4 @@
-# An (Incomplete) Guide with Code, Explantions and Answers to `Advent Of Code 2022`
+# An (Incomplete) Guide with Code, Explanations and Answers to `Advent Of Code 2022`
 
 ## Important!!:
 ### While coding the solutions, I copy paste the puzzle input data at the beginning of the file. This, however, makes it difficult to access the solution due to a large scroll.
