@@ -1,0 +1,372 @@
+# ---RUCKSACK REORGANIZATION---
+
+
+
+#PART 1
+
+#Part 1 Answer : 7990
+
+#Input data (These are lines of strings mixed with uppercase and lowercase characters):
+input1 = '''NLBLfrNNLvqwbMfDqSjSzzSJjjggcdVs
+lTRGPPZnRRHszcsZdSsccZ
+CFTTFtFHTtCtDDzrmBtrBD
+BJldgBWnRgWNWtllSlWShMcLcVSvVjbVVVvDVVVL
+HFGFwqQPQGwHrTFpwmThMbDDVcVmLvvshj
+HrpHrGPZZCQrfqlNdtMlzfMltlgn
+hQLhBtBtQNQjBjNLvtLjzLJpWbjJdppSwjpCCplllJdj
+FGFsmccSPTVPfVVHpJJgwlJwwWJWpCmR
+sFPfPFHZTHScnzBttqzvQzqZ
+MNTGMTnGWvTwwwnZhNZnWDPPdSjqsSPWjmBCSBWS
+RJrtVfRlLrfHgblHJVBjqqFmjCdBJjDmJdSD
+tgRftftRcRLftrpHpflHlctVwNNvZNcTwZnznQzwTzmhQwQh
+sQPpQpQhnlNsJpJSQphHcZffLfgLHSfHVHHFZZ
+zBCvrrWzTwqzcbtbqCbrCCwWLMfVVmmHVfqHFHFgGHLZGmVG
+rvvjBzTjrwQRcpjNsRss
+RrnNWJJNrplbLJBBWWZstVpmtZftptfmfsMM
+GHjnwndzGcqjGgqtfMsvfsMmMvZZ
+cQgwHTPjPwGwjdHHTjwccQBDLlWNrLJLNrnWrBRBlS
+BBBQJGQslJtcGqfgHpPnfftwqw
+RDMLDWLNTLTTNjNgvdqbqRnwqbfwPRzbVHHV
+mgdNgdTSMWmSQsQsBQcFSQJr
+RqQhRpsdqnvdlPBfzdVlVJPM
+SSZsDmSmssGZbJVwPBSzBBMfCf
+LFFNGLgLHFWrWHFmLWrLWLrsQshqQnspNcRTjnpTtjRRjh
+DshNcgmDVClpCfRs
+TnZjTWrtrqtWnGTrbqqTTZZwMpSVRSflRMflMjRCSfpJMSJl
+wHbGHrWHWrbnbFtTZcLzLgHzzgcmpNzzzz
+hfWQdhQHmPWhqdhQqpdQqWtzvwtCMCRvNCwNzMtNsHsz
+lBLnJZLlFBlZjGFbVjjlJRSMzzSszzpGpstSpvMNtN
+rVZVgZVgLnjFVlVQDDfhcfmWrQdTfp
+zqTrVZvDLGdMMLtcpR
+bClsCmQbjFtjljllntsGjGWPdcRWhMppPcpddR
+mbggmBtQtlVqVzgrzDzv
+LtpnGnGNFtbGntbbQPhTlRpRTzDlcClPCl
+mSZHgZMhZVmWPHccllzPzcCP
+sZhWvSsBqmBSqmgMqWZjQjfjrLbvGbtNFjvLtb
+TvMZMTTzWHNNFPsNbvDG
+dhVmwfhcnhRnRfdlGsDNNGqNLFNNTGdq
+JTcVVTlThmfmrrWQZHMrpZtJ
+zGMBMzPNDNcNZLBzcmLvbHltDbWjbthhqvvHtg
+rdJSQSTfQrRnsRfJJQHhWgbhtQblgHWgWH
+nTrlpVfSpswsrsTSdnRsfnJJPBZmMBcBZZGmZBmBMmcCNzpC
+nfzcnSlRJJScTZTzJZnsNjNrHQqrWBjsBRdWBr
+LgHwDLwmMDCphttsqDjNNssBGNsGQB
+hvwgwvghPbpggLtmmbCmSfzFfVSlZnncJTPZHSnF
+DbsnzDCsBPHDQHFD
+GGcWWnrGSjBMrMlhfr
+GNpqddqWLqdScWqcVnCswmzJRVzVVbJp
+NzPpPBppzjbpCrrQhggqvwwqRwrwQl
+SDddnLcDLncghQBWvvgR
+tfSLLBmmmDJGFDLJmMMsZZssZzPTzjTpzZzP
+RRCrJbSfNrRQjvvHppmpbZvv
+llhVGGGMPVTMlTdVzcPVHZmvqpvqZFhHFqmjFrHF
+ccGlzPMVwBGfBrLCDJrDLf
+VcVGZZVMlncjTqcjsWWf
+hzJRtRphQJtBRhzFpdrfrqrFsqswWrmsTmFr
+LJHzBQJRhPHpzQWBRzphHRQSMZlnbGMVMVnLMGbDvvbMVl
+sVdHFFmhPGVTdFmVFsgPdBBtBZjSpGSvtpBztpGjzt
+HCHwlncHfpnjSSpBzz
+wWQwlWWlfWcQMfCrfwTRDrHsDmPDgFVTRVsV
+qllqNlmglNNdzLDddGGNSHScMHMWPcPSqptQSSHJ
+bhhbChVsRjwGRCbZCcSZPpPMMWJSPMtPpW
+BhTVBsbrhCTrhfbrCTTTRRfngzrnnLvdzgGvNzdzLNvrLm
+nNwNPnjzPsNRHpFDHLLsLVHF
+MSBMgMZmWqScCFGWWDFGVvwW
+JBghBwTrgchrTbQRjztQPQbfhQ
+PPBpBHGfBHGpRRPDLMmnscRLdnzmdw
+bMFVTNVTVjbbrCWCsndsDwjDzwmwsnms
+QQbJrCCMWCVCVMShHGPQlHhghGlt
+dBQMdJQHbWMWHZLRRsmPVJmppJqG
+FSrzFnPnGNrlsGps
+FvwTnCzDznTwzhtHjZvbdbjQfZgPMv
+gJjVQzLgLvPJdMrsDsQtdQrw
+hBpmWfSfHCWNfmSppMrDDMwwMbDMlMcbcB
+fhphGpfNCpNSNRhGhqPVvjvjjjTzVRPzLr
+TsnznnrZsNwGNrbWbSvVgWzVSbgv
+mBBFBFQFBhSHggVnmvfW
+BJFcRLFFBhLpMNcdNCscZNnqld
+vqwQGZNSwNQHQQZNSwvpwMdlnMfBClZBTzBnTfTJCB
+sbcrjscccmPmrtFRrtcsPssmVJBfTCldnJJdVzMlBnBJTBlR
+tbDmhtdDrPjbDcrDWSHGqQqvHpWSgNHh
+VVWSwCpWTVWWwVbbvPJDwvDtwtMttLtH
+nfNLcNsfZNnGggZNNqGlMPPDDrlvGHHrtPJMHP
+fhgqfznczcjpVRjFLSLz
+pvcBCrPrcPBpTccGjrQhQdwMsqdGQddswqhS
+FggLnnFzzNFNmstlShMVwQtsgq
+RnbzHmNfRHmmnLzRnLDRZHRrCPJBvCWWpcjvJpwWfjwvrc
+HfdzzrGfRrQqrGVnznQvgjcjhhlMTlFjchFMVL
+swwWWBPNwPwZbvPMFTLjTlgP
+BJBJJDZtSrJqnFFfFJ
+lqqMSMBMttLMjtHjqjrdBnSfcpfwCTGbCffwCcwbSfTcJf
+gVFhVRZgVzJshFZVTbbFfvpcwCTCfbcG
+hRWZzRVVZmsWJVRQsQmqqndQrnqnQLqnQqtBlr
+SgPhCGGzczlCDVDWrlTL
+jvdvFvjqwfdrNfNDlzLzRW
+jzjFHnvdtdnmHZttqmbFdFqFsSBJspcgcSPQpsQPBPgpgmSG
+qqmQFmrbbWWrtqTVVrgLJTzzNzrJ
+nCjMGncHMJvzmmHmVV
+DpjPDGwnmDhbwQqZtqqW
+JlTTLLMRqlMlJMJgBLLnnCZCFrrrdTGrjPjGFr
+vwVpHVHVwvHmQVsFFPZQrjrrrZPNdn
+wtvmtwvpmbwVvssPflSBlRBqLMlLJBzSLb
+rtrTtBwTsfjZrnqJQplNTcqqlvQT
+sHzdWFzSzmGDDRVGVDGHWVhvcLLpNpqJCQqLhClhlcvqpC
+VRbmRmRHGdsnggbPMMftZB
+LMhtCSSftfTzdCdMhSCdMsQGQbGnbGQQMQggDNgR
+FjFHWJwJjRNvQggwnDsm
+plBVRRqWRHVHWFTdTthTLCfzflzh
+VjVdrHFWPmTjRGSRGq
+DMWMZDncQDcfpQzmTQTSQRGTGqNz
+WMnsCZJCffDnfCfvnZCPhwVrHBVrBlVHrhswLh
+TCZltglCZWQsMhqRHhsrHC
+vbbNBbGBmNLzczNmNjrRVbhqHMsVqwHVRwqH
+mzBSmzDLvPDPzcLPvGzWWSnsJstWlSsSlddWZJ
+nlFJZTlBbFBVZldFnlZlCQvQrsMQzzsCdCLszvLD
+hPwgVqSwmRcgSRmWgSwmsfrLPssLvQQfDPDvfMfD
+htSwtWHWVRNtWmwgtnJplnbFpBbNTnBTFN
+vnhBfSSvRttPJnlctl
+frHVDHFwfDLVzVlJMNTHllJHMNlZ
+bGGFFbqVLVVbzrFwGfdgFdwvhpCqmBpRqWpBpQpSSpSQSm
+RMBMMZBBmmmhZmPjTZhZRPnNQvwWfcSvDfQWBSfdQSNdDc
+LHzlVGHqVGzHGzsbCbqglbJddCcvJNDDvdDCJSQvWfwf
+HlzrHHgsqbHsVGHqbsGsbbsqFmmjnTTFmnjmRQRPFTFPZtrj
+LSLWRMLrLHqqwCBJqCstsG
+vbQfPjndQnbcQfmndRwttBNZRsGdsCBJ
+bmcnTfbvvPRRRFcmfhjHgzMrSrSMSLzSWgVhML
+cqWNtsdsWdlsnBsDJwZJSzFFBZ
+RhfvggPfffbVbfPmpMvRRFrZDFFbzDDZZrHwJDbwzb
+QhRgvpTVpPgJVGTWWNcTtqNLtG
+nppPsSPtPZtFdSWdvFvSnnPscRjjHRTLLjCmRLTmCCscrRcc
+wwGqDqfMrGqlhllqhhNwzGNTjCRTmRLTHzJjzBmmRmjCLc
+qrblfrVwGwbhwqghfqVhNMhtWSvFdPdQtQdgtWpvWPQWQv
+cLJvcccHNcLDwCdRDvjdDR
+ttPChbqhZmtWGCtZQwBdsQPQdwwsddQF
+WnqbbgGVZCZnnlWhCVtbtVgMMrJLLJNrNcHMJNJTJNMp
+vLvWghFhBWqGsVTV
+JdpdmbrBmsQGGlVqdw
+CJZMHPMZJHmzCnZHHrMjSvcDLDccNSBCDDFDjj
+mDgnmRVmqgCSScsVllCj
+HLTTMTHZQjZzTzprTGPwtcdlLcllWllWtCSwld
+QMHHPzNrQBQGNHzQqbjnBbBbmbfjbqjb
+tgPNgzzsSPhjSgbPztSbpDJZRJDTRLTTpRHpNRHZ
+crlfGGFlBGBrBcrnFlrFFFCrLpHHJTcLRJJVJvDHtHZRDDRR
+tFFtrdmGffnndmzhbWPgzPdsWQPW
+JHhvgvzJhBGSLHhgBBSBHzdBflDfllTqLlwLqflfMcctCcfl
+RjWQWrnjpjjdNQmmNNWZWpCZtqtDtMwwwcwtcDqcTDqC
+PpNPjQspmWpPWRWnVQQpQsWVvvggJBvBSGGdJVhJSJBFdb
+FrPTcrCGbcTCChrwNMRDMRvWRdHvzVRVTR
+LJmQSmQfJnssmjsHSRFHSHzdVzSFHV
+nQtgssgfstjLnmplttgFLLPPpGBrcrchBhCbhhqwPPCC
+qFtZtFzstvvPvqttNrCJFWJRFCJFRRWR
+ffBBfjQdmdQBfQfmLVQRPRpNNCgPNNRThdWPrr
+fQVQlHnBQjBLjlvDqsvPqHMsctSb
+rqhJnTTJqTchnTdhncmmgMVqtSBsBspgBtHLLWsBBWpWBHSH
+bPldNljGZjNCbFCbwwGDWtBDDtsDtLwt
+NjvlvvzQFFQhQqdQnMTM
+DJHGghhFhHgsGgThrtrQWBPPJWWCzzzP
+lTpffNTdZfrcwlCwCrWz
+dmvdvffSSpjTLjFhFMRRbnRbjj
+LfSqfmvfWPBPdljNNFVFzVJLNjJz
+QZQnQcpMhwhZchQnwbvCCDNDCNpzpFsJpsRsRj
+rchgQnvHHhQgvnwHGTffdmdTddTGfWHW
+SzZGtmTjgzQCpJwpVqrVzz
+NWddPllPDvdbccgcHJLCpClFLLVpFLLVLV
+bbdRRWDNdPfgfWPWhdccNddRmBQTSGTTTZnmBQZjmsmnhGst
+LgvFffmfVFczCWWmWCSh
+MbwbTBDwbZtwBDMhSCGhscWSwVCsSw
+QMtdQbqtbZTjVbMtZDMgffnFnJpFvrvFprgvgq
+pztdqqzCrpvFqpJQwCvWBRGRWLWcWNBsNNQcNR
+HdbjSbVhfhcRscRmNm
+MDPffbjbjgFgzCZdFdgt
+BmDQZbmmfbmbvhvhbgCsCl
+GqVqMHwpGTLHLzwqJlCgsgShhvGvJgGS
+LTpzpLFprpfmNrBBlfQP
+RjRhBqZbwBbjcwgjPmRtZjZfWFfFznWQNVzQFQQnFzWmMN
+vpTPDCdpPSpTSSMzNHzMvFQNNWNM
+PDCpLGlGPdrlqRqbqbBhRLqR
+PmHZWmJzzzppHfHdHfddDMDLhRbMRgRMNNnPgNMM
+TCwBCSSjwqwVqQldTSQTtjVhtbbhbgLLbLLbMggMbDRttc
+QBrwFlqCfdzHdvzF
+GvgGvgfvlzlHGQWRjGMpjZLjZpGW
+DVsqJtnDsJTsTqjpLTdcmWWLpTMp
+NNqVhsPrrhqnJNnJNzgBvvjHCCPSjCvQQQ
+pqnswpqrrtqrnMsMPMqzVfgGzHBVGVftfBGzGG
+QWFQhhmDhJDmJJhhJLcTcfHVvTlTFTfVvgzG
+ZDZLddWWSgDCggChRSMPspMjpnqjMPjj
+MGwMFLFfssfffcGcDrnCllZtnHQCnDCZWD
+dbTvTThtvVVVNWVHClWQzzlQ
+TjbgBqTBvBvjRvbqvRmPGMcwSPJPfstSsfMBMf
+VtCjjqgwvhCCQdSPJJdGnwwLTT
+brrBsmNWlzBpSDcpSWLcWD
+SSFsrrrBrCqHVVQFjj
+LQQNLgvNDnNPHPDQjtGjnmjttBjVhSmJ
+sbWfsMFwdCpdCdwWJVVSltVJlLSlLSft
+TFcdMTbpdbwdwgTDQLgDNNrTNz
+gfgSsnmnWnhhctcJ
+ljjMfwwRTNbRqNlzVzjbtDvPvchvPCccChtJtPVW
+GjwpwMpbjMbRMNwqzwpQgQQBfdHfSFrBmQBg
+FmcmmTTMdPTGHjtGGnctcN
+DgqzTqCgDgpZTrqhSbSpzZfpnHjHlnbtbHBGnGjtQHnlNGWt
+zppLhfZTfDqsLMPdMVRwwM
+RtsMZJSFRWbRsJbFnFzVBpBqgdRdGzGBpDDj
+cTmvrlMQLHLllrhwlmfdQqBpdVpDqGdVpjVzBq
+wvTfcHhhmHlhTNLFCnFnNnFnFnMFZJ
+grjsjJhhNscgJFgPBnbHwLsRHzHfRLbH
+ldMMSSvqtSMGmSSMqLRnlRwbrLlRLRRWwL
+VtvDdTGGGCvMDMDTvdjhQjZppPNrJVpZPVFg
+wctlscwwBTDnJcLNLHDN
+bhhMnhqjzFRjjjPdNDDSvLdJ
+MWzMzbrZZZmWQzhWbMhwlspstmnswswllBCgpG
+rzmddBcmgFjRzSHHDR
+vqpgbnGpqwgbpHtbtRjHTjTfFH
+WWqCwvCqCJvCJvwpqvMvnvJMdPgZQQdZcWhBBBrPlLlmdQdm
+ZdHTtNPNPSRBbFjjTTsr
+WmDhGggmgWWJcZmMhVllzjJCrbjFzbsFFRCj
+MMGDmMGGgDGgnWGWpNnvSHStLnwffZtHnw
+ddZqRdqjvjZdndlfjwZQQCzmqcHLzzTTHTHzchHTmT
+BPVPBBWVLbFFrWgJLpNHcPSHCPSCSCChcCPHTH
+VFNbBJrGGJVZGGLwQGnjQL
+NllFnzNNnNnNzmrHmDFGLGcccRGjGwHChGwwGh
+StMZgPdBgbbBLLvCwCvgGwwj
+PsfPtBJMtPZMJPbZVVPPMMDnjDlNlmrnmWnmqzpqmVFm
+mGGCppgGWWgmGBzMVzBBBbBS
+HnrRdvZvTMtSBtbZ
+rHwRrjlrRwrnJrCsCDlLWCqcmCMM
+zHhDNmDMNNJHfMNJzjsdvvsvbvjGdCGW
+tVwttwwVVFBSFSZqSLjsqLdLCWCvGWcdLs
+ZwZgwgpBFGlHgNQmGM
+TNqhqvqFNWFrlqFqtDTrhTSTbLfjmjzbwMmMbjzLPDwGLPPP
+scVRRQHVQVVHcRHpVgJJCRHMMZGMzCwwLZPZGMMCzLGwZw
+dHsnQdHHdnBHspJRsVppFlNTSGGNBWBtTShNTFvG
+hdZthMghfbbHCgQgBp
+mLjTTjWrTrSCbZsLSbCS
+VVPJrjqcWVmrjcmWRWTZTPcWldMNqvhnhMFdvdMhfNdldGNM
+sFlsgtZFLFZzSZzpnQrJ
+DjRbcjRdBrpRQpMJMJ
+jNcfDqqfcDBbmqDFggpFCTpgCNhWWG
+LMGGbbpLcpVVbfcpcpdvPVQPmZzJZjqSjSjgZgzqZgzTmm
+BrRnBWrtRlhBjmqZCnqJgCSM
+FDWWrBHHBBDHhFHttrWFttNpfLppbfcGGsfcGsFfccpcMd
+jzHqjHLVqQQlHfzqlbbzqHQscvNsVrvnNZTtvNvvvcrGtv
+gJCSRwRpJRtNNSTstnTT
+wCMnFgnpCMPnJgpDQbqdQdQQLbzqDHfH
+MpqJWmqlNNHmmwwBLLvL
+QzFDFfdfQTtSGzTDVMdSFQDwHLBhHLjHjbTbHvLggccwHb
+VQfsSDfGftfsdGSDSSQSFssZJCCMlMWWZPWPJMZlRp
+lcqqhSsgTMgcqBBZnqZTBJJpdGpGVdRNMJHNGjRJdd
+VbfCmPbtttfwwWHdGGrjHPdrRrHN
+CffFFmwmDWmtCtvQbSVnTlBSDsqZhVBBSc
+gPZTgmwvcnqPzhnW
+GJVbDhpjsbWzjfNNNNMj
+DFCbrBJsFJpBhbVFJCtvTgmtRTtQQltmwm
+BLZgTJPqZzFgCGgCFlFF
+ljfcDvNDtHcftNdMCQnCRnhnGjCChG
+mVvSdDNDHlmHfNVlSWcSDmtpbpTzppwLPPLPPJLwTwBLPS
+FHRzMqvQHvndJnFlNdhZ
+fcjWWsjsSmmrgsGgjGcGWsPsnhZddffRdTtNDnZlnDnDThhT
+WSPcPsGPSRGCmLcGgpHCzBVqzbQBVpqwwQ
+PJzwjrVHzLPrZJHgSsNWbNbmNQtnLSSs
+hGhqpTBRRGFFpMpBqGpSNlQQmWlntDbmTQSsml
+MpcvMqBRhpFRNCcjwZwPZwJfwjHz
+QWJsVCQDbVWbprrWSZWFcmrS
+wMwvjRftMLhHfjhdMhRhjtMZrmrmZqBSpBSprvSpTzBTSF
+dLNNjhhhVDlNDspN
+MNmmtzlQPQmlttlQlHBGFFsHsPnGnFGWgs
+CwhhwVZcRVRcCRDWLDFHWWFGss
+hwdwdCwCZVSwZcrvhVwCJtbtQtpzmzQHvtpzQmmmpp
+CccMdVLJcnCVhCfmjGjlfwwwMwWG
+HDSbggDTNbRDHtTgrDpwmnGFfpGgfWfBFmlm
+HbDzvQNzHbQLnQddZCcn
+jWlqRjWwsqjHHqRDDPMPgpMLpgSMnggC
+VQvFfFbdTcfhbcvCpvPrnZgLLpSgLp
+PNQVbNTTcbdbfQdbmdVVGfbhBJlHWqGljJqBlqJJlsJJwqqR
+WFGnWBTrvtgnjBWsFWggTPlhSfmRSRhZMcSfhZZpRmtZ
+CdswHJHNsCbHLVVcZclphwcchfphZZ
+LdDCLHsHzbNNNQDsJLNGgPPBvFzjggPrPTrrFB
+pGFwwLTPjDcSCPpSdsqtMRMDdVQdVVQz
+JBJjZgWgJHvHJgJJbBhNJvgZzsQVRqzdfQQQMMBszRzRzRfV
+nlNZWZlJngbvNjgZhNvHhJvprcTclFCcTPSlTCcSpFcLrG
+PdHJVCbSJmSVHdLdHbsbsqRwnlDWhZnZccWqDwqDVw
+NvMFlGrQTvgpggFNwZhwWWhhqRWRhTqz
+gMjvtMpNMrfFrvlffgmdjLLjCmmLHBddLJBS
+zNrlzhJGdlHGHplCJQQVbLhRFRbccDSbVDLqRb
+WwmwnWjvjmjZPPFFFRDZqVbqqJBS
+tmjMJstnWnjvnsTnQMfrQMldrGlCrGfl
+MqWfZlpjMPBgffgPNNQnVnnqRsNVLVmR
+TcwGCTSvthpzCCTNVnsQVSnRnRQnNn
+TbrpDvvCvCwTGDzvzhpzDzljHBZbHWZgHPZJZjJJHfPf
+DWNNQQHRpsRWDQPQqHqqgJBCsjjsFFFngBzgjJzl
+tMhMwTrTDLMdmMLtMMrbmVbZhJJnnFCCjnlJjjjjBzFBgZ
+ttTtDmbfqWcWfqPp
+QhvTQqggFsmvjsFTmqZrzzwZrHnwpnplpZ
+WCJVGCSLtDPPtHDbHDbdpnrMnMrrpwlZrwpznLpl
+VVJbbVfStVHJJVtGmvsfjvssFFTvvsQj
+pBCqCqhWjpnWCnffJDjfWzJBZdcvwcPdvJvJcgcrdGdvggrv
+tlhbHbmNTbQgbGRvbZGrcg
+tVFLQNVlmTmQLQhpzMCBzCpzjjFMnz
+qhWHwNqLHrLJjqgHddFchMdnnGnRhMcR
+pTzTPVfZQPffNVtVVZfptRGsRbbbbcDsMMZsMZMdRn
+CfzPVzCfPBzPBqvWqgBwjNLjjS'''
+
+#Solution :
+
+rucksacks = input1.splitlines() 
+#getting each rucksack's string as a separate item in a list 'rucksacks'
+
+common = []
+#I think it's easier to create a list to store common letters directly instead of creating and calling a function later.
+
+for line in rucksacks:
+    part1 = line[0 : (len(line)//2)] #get each half of the string
+    part2 = line[(len(line)//2) : ]
+    common.append(list(set(part1) & set(part2))) #use sets to find common letter! (regular loops could be used but that's tedious and faulty, leading to index related errors all the time.)
+
+    #sets are great data structures to find common letters between strings. 
+    #Sets, characterized in Python by {} brackets, are like lists but with no two common elements, sets only contain distinct items. 
+    #So, by converting both strings to sets and using the & operator, we can easily get the letter contained in both strings.
+    #convert everything to a list from a set with the list() method, because sets are not subscriptable and we cannot access the individual element.
+
+sum = 0
+
+for letter_list in common : #parse through each list letter_list in the list common
+    letter = str(letter_list[0]) #convert content of each list in the list to a string
+    if letter.islower():
+        sum += ord(letter) - 96 #ord() returns ascii value of a letter. Adjust according to the priority guide in the problem.
+    else:
+        sum += ord(letter) - 38 #for example, ord('Z') is 90, 90 - 38 = 52, which is the value of Z in the priorities.
+
+print(sum)
+
+
+#PART 2
+
+#Part 2 Answer : 2602
+
+#Input data same as before
+
+def groups_of_3(list, n) : #function to break our list into groups of 3
+    for i in range(0, len(list), n) : #parse over the list in steps of 3
+        yield list[i : i + n] #yield separate lists of each set of 3 in successive iterations
+
+common2 = []
+
+for i in groups_of_3(rucksacks, 3): #use defined function to break rucksacks in sets of 3
+    line1 = list(i)[0]
+    line2 = list(i)[1]
+    line3 = list(i)[2]
+    common2.append(list((set(line1) & set(line2)) & set(line3))) #same logic using sets, as part 1
+
+
+sum2 = 0
+
+for letter_list in common2 : #parse through each list letter_list in the list common2
+    letter = str(letter_list[0]) #convert content of each list in the list to a string
+    if letter.islower():
+        sum2 += ord(letter) - 96 #ord() returns ascii value of a letter. Adjust according to the priority guide in the problem.
+    else:
+        sum2 += ord(letter) - 38 #for example, ord('Z') is 90, 90 - 38 = 52, which is the value of Z in the priorities.
+
+print(sum2)
+
+
+
